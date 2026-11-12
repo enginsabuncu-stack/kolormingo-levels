@@ -1,149 +1,158 @@
 {
-  "version": 1,
+  "version": 2,
+  "base_path": "levels/",
   "levels": [
     {
       "id": "balloons",
-      "svg": "balloons.svg",
       "title_tr": "Balonlar",
       "title_en": "Balloons",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "fun",
+      "svg_url": "levels/balloons.svg",
+      "palette": {
+        "name": "Parti",
+        "colors": [
+          "#FFFFFF",
+          "#FF595E",
+          "#1982C4",
+          "#FF6FA5"
+        ]
+      }
     },
     {
       "id": "house",
-      "svg": "house.svg",
       "title_tr": "Sevimli Ev",
       "title_en": "Cozy House",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "places",
+      "svg_url": "levels/house.svg",
+      "palette": {
+        "name": "Sıcak Yuva",
+        "colors": [
+          "#FFCA3A",
+          "#8D5524",
+          "#FF924C",
+          "#FF595E",
+          "#6A4C93",
+          "#8AC926"
+        ]
+      }
     },
     {
       "id": "fish",
-      "svg": "fish.svg",
       "title_tr": "Mutlu Balık",
       "title_en": "Happy Fish",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "animals",
+      "svg_url": "levels/fish.svg",
+      "palette": {
+        "name": "Okyanus",
+        "colors": [
+          "#6A4C93",
+          "#FFFFFF",
+          "#FFCA3A",
+          "#FF924C",
+          "#FF595E",
+          "#1982C4"
+        ]
+      }
     },
     {
       "id": "flower",
-      "svg": "flower.svg",
       "title_tr": "Neşeli Çiçek",
       "title_en": "Cheerful Flower",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "nature",
+      "svg_url": "levels/flower.svg",
+      "palette": {
+        "name": "Bahar",
+        "colors": [
+          "#FFCA3A",
+          "#FF6FA5",
+          "#6A4C93",
+          "#8AC926",
+          "#8D5524"
+        ]
+      }
     },
     {
       "id": "icecream",
-      "svg": "icecream.svg",
       "title_tr": "Dondurma",
       "title_en": "Ice Cream",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "food",
+      "svg_url": "levels/icecream.svg",
+      "palette": {
+        "name": "Tatlı",
+        "colors": [
+          "#8D5524",
+          "#FF6FA5",
+          "#FFCA3A",
+          "#FF595E"
+        ]
+      }
     },
     {
       "id": "rocket",
-      "svg": "rocket.svg",
       "title_tr": "Uzay Roketi",
       "title_en": "Space Rocket",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "space",
+      "svg_url": "levels/rocket.svg",
+      "palette": {
+        "name": "Uzay",
+        "colors": [
+          "#1982C4",
+          "#FFFFFF",
+          "#FF595E",
+          "#FF924C",
+          "#FFCA3A"
+        ]
+      }
     },
     {
       "id": "butterfly",
-      "svg": "butterfly.svg",
       "title_tr": "Kelebek",
       "title_en": "Butterfly",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "animals",
+      "svg_url": "levels/butterfly.svg",
+      "palette": {
+        "name": "Bahçe",
+        "colors": [
+          "#8D5524",
+          "#FFCA3A",
+          "#6A4C93",
+          "#FF595E",
+          "#1982C4",
+          "#FF6FA5"
+        ]
+      }
     },
     {
       "id": "rainbow",
-      "svg": "rainbow.svg",
       "title_tr": "Gökkuşağı",
       "title_en": "Rainbow",
-      "palette": [
-        "#FF595E",
-        "#FFCA3A",
-        "#8AC926",
-        "#1982C4",
-        "#6A4C93",
-        "#FF924C",
-        "#FF6FA5",
-        "#8D5524",
-        "#FFFFFF",
-        "#9AA0A6"
-      ]
+      "category": "nature",
+      "svg_url": "levels/rainbow.svg",
+      "palette": {
+        "name": "Gökkuşağı",
+        "colors": [
+          "#FF595E",
+          "#FF924C",
+          "#FFCA3A",
+          "#8AC926",
+          "#1982C4",
+          "#FFFFFF"
+        ]
+      }
+    },
+    {
+      "id": "sample_level",
+      "title_tr": "Deneme Çemberi",
+      "title_en": "Test Rings",
+      "category": "test",
+      "svg_url": "levels/sample_level.svg",
+      "palette": {
+        "name": "Test",
+        "colors": [
+          "#FF595E",
+          "#1982C4"
+        ]
+      }
     }
   ]
 }
