@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M162,140A38,38 0 1,0 238,140A38,38 0 1,0 162,140Z"/>
+  <path id="fill_2" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M163,64A37,37 0 1,0 237,64A37,37 0 1,0 163,64Z"/>
+  <path id="fill_3" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M228.8,102A37,37 0 1,0 302.8,102A37,37 0 1,0 228.8,102Z"/>
+  <path id="fill_4" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M228.8,178A37,37 0 1,0 302.8,178A37,37 0 1,0 228.8,178Z"/>
+  <path id="fill_5" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M163,216A37,37 0 1,0 237,216A37,37 0 1,0 163,216Z"/>
+  <path id="fill_6" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M97.2,178A37,37 0 1,0 171.2,178A37,37 0 1,0 97.2,178Z"/>
+  <path id="fill_7" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M97.2,102A37,37 0 1,0 171.2,102A37,37 0 1,0 97.2,102Z"/>
+  <path id="fill_8" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M192,253 L208,253 L208,334 L192,334Z"/>
+  <path id="fill_9" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M132.3,308A32,14 -30 1,0 187.7,276A32,14 -30 1,0 132.3,308Z"/>
+  <path id="fill_10" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M212.3,276A32,14 30 1,0 267.7,308A32,14 30 1,0 212.3,276Z"/>
+  <path id="fill_11" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M140,334 L260,334 L245,395 L155,395Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M162,140A38,38 0 1,0 238,140A38,38 0 1,0 162,140ZM163,64A37,37 0 1,0 237,64A37,37 0 1,0 163,64ZM228.8,102A37,37 0 1,0 302.8,102A37,37 0 1,0 228.8,102ZM228.8,178A37,37 0 1,0 302.8,178A37,37 0 1,0 228.8,178ZM163,216A37,37 0 1,0 237,216A37,37 0 1,0 163,216ZM97.2,178A37,37 0 1,0 171.2,178A37,37 0 1,0 97.2,178ZM97.2,102A37,37 0 1,0 171.2,102A37,37 0 1,0 97.2,102ZM192,253 L208,253 L208,334 L192,334ZM132.3,308A32,14 -30 1,0 187.7,276A32,14 -30 1,0 132.3,308ZM212.3,276A32,14 30 1,0 267.7,308A32,14 30 1,0 212.3,276ZM140,334 L260,334 L245,395 L155,395Z"/>
+</svg>

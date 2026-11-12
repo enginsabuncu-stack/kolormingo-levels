@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M100,220 L150,220 L150,265 L100,265Z"/>
+  <path id="fill_2" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M250,220 L300,220 L300,265 L250,265Z"/>
+  <path id="fill_3" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M185,250L215,250A10,10 0 0,1 225,260L225,340A10,10 0 0,1 215,350L185,350A10,10 0 0,1 175,340L175,260A10,10 0 0,1 185,250Z"/>
+  <path id="fill_4" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M80,190 L320,190 L320,350 L80,350ZM100,220 L150,220 L150,265 L100,265ZM250,220 L300,220 L300,265 L250,265ZM185,250L215,250A10,10 0 0,1 225,260L225,340A10,10 0 0,1 215,350L185,350A10,10 0 0,1 175,340L175,260A10,10 0 0,1 185,250Z"/>
+  <path id="fill_5" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M60,190 L200,80 L340,190Z"/>
+  <path id="fill_6" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M100,158.6 L100,95 L130,95 L130,135Z"/>
+  <path id="fill_7" data-hint="6" fill="#FFFFFF" fill-rule="evenodd" d="M0,350 L400,350 L400,400 L0,400Z"/>
+  <path id="fill_8" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M308,60A32,32 0 1,0 372,60A32,32 0 1,0 308,60Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M100,220 L150,220 L150,265 L100,265ZM250,220 L300,220 L300,265 L250,265ZM185,250L215,250A10,10 0 0,1 225,260L225,340A10,10 0 0,1 215,350L185,350A10,10 0 0,1 175,340L175,260A10,10 0 0,1 185,250ZM80,190 L320,190 L320,350 L80,350ZM60,190 L200,80 L340,190ZM100,158.6 L100,95 L130,95 L130,135ZM0,350 L400,350 L400,400 L0,400ZM308,60A32,32 0 1,0 372,60A32,32 0 1,0 308,60ZM382,60L396,60M369.7,89.7L379.6,99.6M340,102L340,116M310.3,89.7L300.4,99.6M298,60L284,60M310.3,30.3L300.4,20.4M340,18L340,4M369.7,30.3L379.6,20.4"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M50,200A150,150 0 1,0 350,200A150,150 0 1,0 50,200ZM130,200A70,70 0 1,0 270,200A70,70 0 1,0 130,200Z"/>
+  <path id="fill_2" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M130,200A70,70 0 1,0 270,200A70,70 0 1,0 130,200Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="8" stroke-linejoin="round" d="M50,200A150,150 0 1,0 350,200A150,150 0 1,0 50,200ZM130,200A70,70 0 1,0 270,200A70,70 0 1,0 130,200Z"/>
+</svg>

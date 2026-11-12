@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M140,236 L260,236 L200,390Z"/>
+  <path id="fill_2" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M142,178A58,58 0 1,0 258,178A58,58 0 1,0 142,178Z"/>
+  <path id="fill_3" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M158,78A42,42 0 1,0 242,78A42,42 0 1,0 158,78Z"/>
+  <path id="fill_4" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M186,20A14,14 0 1,0 214,20A14,14 0 1,0 186,20Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M140,236 L260,236 L200,390ZM142,178A58,58 0 1,0 258,178A58,58 0 1,0 142,178ZM158,78A42,42 0 1,0 242,78A42,42 0 1,0 158,78ZM186,20A14,14 0 1,0 214,20A14,14 0 1,0 186,20ZM164,265L192,265M208,265L236,265M186,310L214,310"/>
+</svg>

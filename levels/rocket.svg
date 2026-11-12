@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M174,170A26,26 0 1,0 226,170A26,26 0 1,0 174,170Z"/>
+  <path id="fill_2" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M160,110 L240,110 L240,280 L160,280ZM174,170A26,26 0 1,0 226,170A26,26 0 1,0 174,170Z"/>
+  <path id="fill_3" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M160,110 L200,30 L240,110Z"/>
+  <path id="fill_4" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M160,220 L115,300 L160,280Z"/>
+  <path id="fill_5" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M240,220 L285,300 L240,280Z"/>
+  <path id="fill_6" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M170,280 L230,280 L200,360Z"/>
+  <path id="fill_7" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M70,52 L74.7,63.5 L87.1,64.4 L77.6,72.5 L80.6,84.6 L70,78 L59.4,84.6 L62.4,72.5 L52.9,64.4 L65.3,63.5Z"/>
+  <path id="fill_8" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M330,72 L334.7,83.5 L347.1,84.4 L337.6,92.5 L340.6,104.6 L330,98 L319.4,104.6 L322.4,92.5 L312.9,84.4 L325.3,83.5Z"/>
+  <path id="fill_9" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M80,312 L84.7,323.5 L97.1,324.4 L87.6,332.5 L90.6,344.6 L80,338 L69.4,344.6 L72.4,332.5 L62.9,324.4 L75.3,323.5Z"/>
+  <path id="fill_10" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M330,302 L334.7,313.5 L347.1,314.4 L337.6,322.5 L340.6,334.6 L330,328 L319.4,334.6 L322.4,322.5 L312.9,314.4 L325.3,313.5Z"/>
+  <path id="fill_11" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M60,182 L64.7,193.5 L77.1,194.4 L67.6,202.5 L70.6,214.6 L60,208 L49.4,214.6 L52.4,202.5 L42.9,194.4 L55.3,193.5Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M174,170A26,26 0 1,0 226,170A26,26 0 1,0 174,170ZM160,110 L240,110 L240,280 L160,280ZM160,110 L200,30 L240,110ZM160,220 L115,300 L160,280ZM240,220 L285,300 L240,280ZM170,280 L230,280 L200,360ZM70,52 L74.7,63.5 L87.1,64.4 L77.6,72.5 L80.6,84.6 L70,78 L59.4,84.6 L62.4,72.5 L52.9,64.4 L65.3,63.5ZM330,72 L334.7,83.5 L347.1,84.4 L337.6,92.5 L340.6,104.6 L330,98 L319.4,104.6 L322.4,92.5 L312.9,84.4 L325.3,83.5ZM80,312 L84.7,323.5 L97.1,324.4 L87.6,332.5 L90.6,344.6 L80,338 L69.4,344.6 L72.4,332.5 L62.9,324.4 L75.3,323.5ZM330,302 L334.7,313.5 L347.1,314.4 L337.6,322.5 L340.6,334.6 L330,328 L319.4,334.6 L322.4,322.5 L312.9,314.4 L325.3,313.5ZM60,182 L64.7,193.5 L77.1,194.4 L67.6,202.5 L70.6,214.6 L60,208 L49.4,214.6 L52.4,202.5 L42.9,194.4 L55.3,193.5Z"/>
+</svg>
