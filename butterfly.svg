@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="8" fill="#FFFFFF" fill-rule="evenodd" d="M184,210A16,90 0 1,0 216,210A16,90 0 1,0 184,210Z"/>
+  <path id="fill_2" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M87,140A18,18 0 1,0 123,140A18,18 0 1,0 87,140Z"/>
+  <path id="fill_3" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M42.3,125.4A72,58 20 1,0 177.7,174.6A72,58 20 1,0 42.3,125.4ZM87,140A18,18 0 1,0 123,140A18,18 0 1,0 87,140Z"/>
+  <path id="fill_4" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M113,265A12,12 0 1,0 137,265A12,12 0 1,0 113,265Z"/>
+  <path id="fill_5" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M83,277.1A50,40 -20 1,0 177,242.9A50,40 -20 1,0 83,277.1ZM113,265A12,12 0 1,0 137,265A12,12 0 1,0 113,265Z"/>
+  <path id="fill_6" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M277,140A18,18 0 1,0 313,140A18,18 0 1,0 277,140Z"/>
+  <path id="fill_7" data-hint="7" fill="#FFFFFF" fill-rule="evenodd" d="M222.3,174.6A72,58 -20 1,0 357.7,125.4A72,58 -20 1,0 222.3,174.6ZM277,140A18,18 0 1,0 313,140A18,18 0 1,0 277,140Z"/>
+  <path id="fill_8" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M263,265A12,12 0 1,0 287,265A12,12 0 1,0 263,265Z"/>
+  <path id="fill_9" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M223,242.9A50,40 20 1,0 317,277.1A50,40 20 1,0 223,242.9ZM263,265A12,12 0 1,0 287,265A12,12 0 1,0 263,265Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M184,210A16,90 0 1,0 216,210A16,90 0 1,0 184,210ZM87,140A18,18 0 1,0 123,140A18,18 0 1,0 87,140ZM42.3,125.4A72,58 20 1,0 177.7,174.6A72,58 20 1,0 42.3,125.4ZM113,265A12,12 0 1,0 137,265A12,12 0 1,0 113,265ZM83,277.1A50,40 -20 1,0 177,242.9A50,40 -20 1,0 83,277.1ZM277,140A18,18 0 1,0 313,140A18,18 0 1,0 277,140ZM222.3,174.6A72,58 -20 1,0 357.7,125.4A72,58 -20 1,0 222.3,174.6ZM263,265A12,12 0 1,0 287,265A12,12 0 1,0 263,265ZM223,242.9A50,40 20 1,0 317,277.1A50,40 20 1,0 223,242.9ZM195,125C185,90 170,70 150,60M205,125C215,90 230,70 250,60"/>
+</svg>

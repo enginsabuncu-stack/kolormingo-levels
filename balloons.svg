@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="9" fill="#FFFFFF" fill-rule="evenodd" d="M62.1,149.9A9.4,15.6 -30 1,0 78.3,140.6A9.4,15.6 -30 1,0 62.1,149.9Z"/>
+  <path id="fill_2" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M38,165A52,52 0 1,0 142,165A52,52 0 1,0 38,165ZM62.1,149.9A9.4,15.6 -30 1,0 78.3,140.6A9.4,15.6 -30 1,0 62.1,149.9Z"/>
+  <path id="fill_3" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M90,217 L78,235 L102,235Z"/>
+  <path id="fill_4" data-hint="9" fill="#FFFFFF" fill-rule="evenodd" d="M167.8,112.6A10.8,18 -30 1,0 186.6,101.8A10.8,18 -30 1,0 167.8,112.6Z"/>
+  <path id="fill_5" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M140,130A60,60 0 1,0 260,130A60,60 0 1,0 140,130ZM167.8,112.6A10.8,18 -30 1,0 186.6,101.8A10.8,18 -30 1,0 167.8,112.6Z"/>
+  <path id="fill_6" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M200,190 L188,208 L212,208Z"/>
+  <path id="fill_7" data-hint="9" fill="#FFFFFF" fill-rule="evenodd" d="M282.1,149.9A9.4,15.6 -30 1,0 298.3,140.6A9.4,15.6 -30 1,0 282.1,149.9Z"/>
+  <path id="fill_8" data-hint="7" fill="#FFFFFF" fill-rule="evenodd" d="M258,165A52,52 0 1,0 362,165A52,52 0 1,0 258,165ZM282.1,149.9A9.4,15.6 -30 1,0 298.3,140.6A9.4,15.6 -30 1,0 282.1,149.9Z"/>
+  <path id="fill_9" data-hint="7" fill="#FFFFFF" fill-rule="evenodd" d="M310,217 L298,235 L322,235Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M62.1,149.9A9.4,15.6 -30 1,0 78.3,140.6A9.4,15.6 -30 1,0 62.1,149.9ZM38,165A52,52 0 1,0 142,165A52,52 0 1,0 38,165ZM90,217 L78,235 L102,235ZM167.8,112.6A10.8,18 -30 1,0 186.6,101.8A10.8,18 -30 1,0 167.8,112.6ZM140,130A60,60 0 1,0 260,130A60,60 0 1,0 140,130ZM200,190 L188,208 L212,208ZM282.1,149.9A9.4,15.6 -30 1,0 298.3,140.6A9.4,15.6 -30 1,0 282.1,149.9ZM258,165A52,52 0 1,0 362,165A52,52 0 1,0 258,165ZM310,217 L298,235 L322,235ZM90,235C70,297 110,337 85,387M200,208C180,270 220,310 195,360M310,235C290,297 330,337 305,387"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <path id="fill_1" data-hint="5" fill="#FFFFFF" fill-rule="evenodd" d="M242,170A8,8 0 1,0 258,170A8,8 0 1,0 242,170Z"/>
+  <path id="fill_2" data-hint="9" fill="#FFFFFF" fill-rule="evenodd" d="M230,170A20,20 0 1,0 270,170A20,20 0 1,0 230,170ZM242,170A8,8 0 1,0 258,170A8,8 0 1,0 242,170Z"/>
+  <path id="fill_3" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M170,135 L185,135 L185,265 L170,265Z"/>
+  <path id="fill_4" data-hint="2" fill="#FFFFFF" fill-rule="evenodd" d="M130,150 L145,150 L145,250 L130,250Z"/>
+  <path id="fill_5" data-hint="6" fill="#FFFFFF" fill-rule="evenodd" d="M90,200A110,75 0 1,0 310,200A110,75 0 1,0 90,200ZM230,170A20,20 0 1,0 270,170A20,20 0 1,0 230,170ZM170,135 L185,135 L185,265 L170,265ZM130,150 L145,150 L145,250 L130,250Z"/>
+  <path id="fill_6" data-hint="1" fill="#FFFFFF" fill-rule="evenodd" d="M90,200 L30,140 L30,260Z"/>
+  <path id="fill_7" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M170,123 L215,78 L240,125Z"/>
+  <path id="fill_8" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M316,110A14,14 0 1,0 344,110A14,14 0 1,0 316,110Z"/>
+  <path id="fill_9" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M340,70A10,10 0 1,0 360,70A10,10 0 1,0 340,70Z"/>
+  <path id="fill_10" data-hint="4" fill="#FFFFFF" fill-rule="evenodd" d="M313,40A7,7 0 1,0 327,40A7,7 0 1,0 313,40Z"/>
+  <path id="fill_11" data-hint="3" fill="#FFFFFF" fill-rule="evenodd" d="M0,330 L400,330 L400,400 L0,400Z"/>
+  <path id="outline" fill="none" stroke="#1D1B2E" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M242,170A8,8 0 1,0 258,170A8,8 0 1,0 242,170ZM230,170A20,20 0 1,0 270,170A20,20 0 1,0 230,170ZM170,135 L185,135 L185,265 L170,265ZM130,150 L145,150 L145,250 L130,250ZM90,200A110,75 0 1,0 310,200A110,75 0 1,0 90,200ZM90,200 L30,140 L30,260ZM170,123 L215,78 L240,125ZM316,110A14,14 0 1,0 344,110A14,14 0 1,0 316,110ZM340,70A10,10 0 1,0 360,70A10,10 0 1,0 340,70ZM313,40A7,7 0 1,0 327,40A7,7 0 1,0 313,40ZM0,330 L400,330 L400,400 L0,400Z"/>
+</svg>

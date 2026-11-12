@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "balloons",
+      "svg": "balloons.svg",
+      "title_tr": "Balonlar",
+      "title_en": "Balloons",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "house",
+      "svg": "house.svg",
+      "title_tr": "Sevimli Ev",
+      "title_en": "Cozy House",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "fish",
+      "svg": "fish.svg",
+      "title_tr": "Mutlu Balık",
+      "title_en": "Happy Fish",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "flower",
+      "svg": "flower.svg",
+      "title_tr": "Neşeli Çiçek",
+      "title_en": "Cheerful Flower",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "icecream",
+      "svg": "icecream.svg",
+      "title_tr": "Dondurma",
+      "title_en": "Ice Cream",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "rocket",
+      "svg": "rocket.svg",
+      "title_tr": "Uzay Roketi",
+      "title_en": "Space Rocket",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "butterfly",
+      "svg": "butterfly.svg",
+      "title_tr": "Kelebek",
+      "title_en": "Butterfly",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "svg": "rainbow.svg",
+      "title_tr": "Gökkuşağı",
+      "title_en": "Rainbow",
+      "palette": [
+        "#FF595E",
+        "#FFCA3A",
+        "#8AC926",
+        "#1982C4",
+        "#6A4C93",
+        "#FF924C",
+        "#FF6FA5",
+        "#8D5524",
+        "#FFFFFF",
+        "#9AA0A6"
+      ]
+    }
+  ]
+}
